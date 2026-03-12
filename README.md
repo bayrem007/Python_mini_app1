@@ -1,5 +1,11 @@
 # Pur Beurre - Healthy Food Substitution
 
+
+
+<img width="1553" height="683" alt="image" src="https://github.com/user-attachments/assets/c46b91fb-6beb-48c9-935a-711da9adbd2a" />
+
+
+
 Full-stack app to search **healthier substitutes** for food products using the **OpenFoodFacts** API.
 
 ## Tech stack
